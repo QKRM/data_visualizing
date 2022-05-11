@@ -4,3 +4,8 @@
 기획에서 빠진 기능   
 -방문객 수에 따른 시각화 <- 방문객 수가 기록되지 않은 데이터 다수   
 -영문이름 버튼 <- 영문이름이 없는 데이터 다수
+
+<베이징>   
+<iframe src="https://editor.p5js.org/QKRM/full/86JFmLwnr"></iframe>
+<상하이>   
+<iframe src="https://editor.p5js.org/QKRM/full/IMkFmRSG3"></iframe>
