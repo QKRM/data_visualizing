@@ -7,6 +7,7 @@
 
 추가예정기능   
 -텍스트량에 따른 가변적인 텍스트 박스 크기   
+-webGL을 활용한 텍스트 정렬   
 
 <베이징>   
 https://editor.p5js.org/QKRM/full/86JFmLwnr   
