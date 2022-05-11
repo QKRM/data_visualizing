@@ -6,6 +6,6 @@
 -영문이름 버튼 <- 영문이름이 없는 데이터 다수
 
 <베이징>   
-<iframe src="https://editor.p5js.org/QKRM/full/86JFmLwnr"></iframe>
+iframe src="https://editor.p5js.org/QKRM/full/86JFmLwnr   
 <상하이>   
-<iframe src="https://editor.p5js.org/QKRM/full/IMkFmRSG3"></iframe>
+https://editor.p5js.org/QKRM/full/IMkFmRSG3
